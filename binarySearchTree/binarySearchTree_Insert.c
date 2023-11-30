@@ -21,7 +21,6 @@ Tree *createNode(int *num);
 int treeEmpty(Tree **tree);
 void insertNode(Tree **tree, int *num);
 Tree *createTree();
-void inOrder(Tree **tree);
 
 int main()
 {
